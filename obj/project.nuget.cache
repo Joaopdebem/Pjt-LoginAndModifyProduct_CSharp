@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMqz7DoES7aNw5qDm4Jayp0oTsVf2n3rdpX4euZQC6S78eb1c/+7gO7EZsmvvXTPChOp4ZP04JFXgXeZTKzLMg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Pjt-LoginAndModifyProduct_CSharp\\LoginAndModifyProducts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpdeb\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
